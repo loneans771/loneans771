@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loneans771
-- 👀 I’m interested in ... Blockchain
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... IG:luthfi_aziiz
